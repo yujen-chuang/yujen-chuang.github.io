@@ -8,6 +8,7 @@ website:
   cookie-consent: true
   google-analytics: "G-P59RQK1WTV"
   site-url: 'https://yujen-chuang.com'
+  repo-url: 'https://github.com/yujen-chuang/yujen-chuang.github.io'
   navbar:  
 #    background: primary
     background: "#eeeeee"#"#0a1952"
