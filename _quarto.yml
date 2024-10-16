@@ -7,7 +7,7 @@ website:
   favicon: images/favicon.png
   cookie-consent: true
   google-analytics: "G-P59RQK1WTV"
-  site-url: 'https://www.yujen-chuang.com/'
+  site-url: 'https://yujen-chuang.com'
   navbar:  
 #    background: primary
     background: "#eeeeee"#"#0a1952"
