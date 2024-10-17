@@ -7,7 +7,7 @@ website:
   favicon: images/favicon.png
   cookie-consent: true
   google-analytics: "G-P59RQK1WTV"
-  site-url: 'https://yujen-chuang.com'
+  site-url: 'https://www.yujen-chuang.com'
   repo-url: 'https://github.com/yujen-chuang/yujen-chuang.github.io'
   navbar:  
 #    background: primary
